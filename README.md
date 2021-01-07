@@ -51,23 +51,15 @@ Solutions for [HackerRank Linux Shell Challenges](https://www.hackerrank.com/dom
 ### [Arrays in Bash](https://www.hackerrank.com/domains/shell/arrays-in-bash)
 | Challenge | Solution |
 |-----------|----------|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
+| [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [read-in-an-array.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/read-in-an-array.sh) |
+| [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [slice-an-array.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/slice-an-array.sh) |
+| [Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [filter-an-array-with-pattern.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/filter-an-array-with-pattern.sh) |
+| [Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [concatenate-an-array-with-itself.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/concatenate-an-array-with-itself.sh) |
+| [Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [display-an-element.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/display-an-element.sh) |
+| [Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [count-the-number-of-elements.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/count-the-number-of-elements.sh) |
+| [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [remove-the-first-capital-letter.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/remove-the-first-capital-letter.sh) |
+| [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [lonely-integer.sh](https://github.com/alpemek/linux-shell/blob/master/Arrays%20in%20Bash/lonely-integer.sh) |
+
 ### [Grep Sed Awk](https://www.hackerrank.com/domains/shell/grep-sed-awk)
 | Challenge | Solution |
 |-----------|----------|
