@@ -63,21 +63,18 @@ Solutions for [HackerRank Linux Shell Challenges](https://www.hackerrank.com/dom
 ### [Grep Sed Awk](https://www.hackerrank.com/domains/shell/grep-sed-awk)
 | Challenge | Solution |
 |-----------|----------|
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
-| []() | []() |
+| ['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [awk-1.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/awk-1.sh) |
+| ['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [awk-2.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/awk-2.sh) |
+| ['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [awk-3.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/awk-3.sh) |
+| ['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [awk-4.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/awk-4.sh) |
+| ['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [grep-1.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/grep-1.sh) |
+| ['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [grep-2.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/grep-2.sh) |
+| ['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [grep-3.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/grep-3.sh) |
+| ['Grep' - A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [grep-A.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/grep-A.sh) |
+| ['Grep' - B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [grep-B.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/grep-B.sh) |
+| ['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [sed-1.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/sed-1.sh) |
+| ['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [sed-2.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/sed-2.sh) |
+| ['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [sed-3.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/sed-3.sh) |
+| ['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [sed-4.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/sed-4.sh) |
+| ['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [sed-5.sh](https://github.com/alpemek/linux-shell/blob/master/Grep%20Sed%20Awk/sed-5.sh) |
 
